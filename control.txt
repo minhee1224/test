@@ -1,2 +1,4 @@
 Hi control
 New change!
+
+Message test
